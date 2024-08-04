@@ -6,6 +6,6 @@ import icon from "astro-icon";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://i1da725.github.io",
+  site: "https://eda-nw.com",
   integrations: [tailwind(), mdx(), sitemap(), icon()],
 });
